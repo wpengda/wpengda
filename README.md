@@ -23,6 +23,10 @@ My primary research interests are centered around leveraging innovative technolo
 I am always excited to collaborate with other researchers and explore new fields. Do not hesitate to contact me if you are interested!
 
 ## 🔥 News
+- *2024.09*, Our article, **Will the real Linda please stand up... To large language models? Examining the representativeness heuristic in LLMs**, selected as an **oral spotlight presentation (top 2%)** at [COLM 2024](https://colmweb.org/).
+
+- *2024.08*, Our article, **On putting the horse (raters and criteria) before the cart (variance components in ratings)**, has now been published in [Industrial and Organizational Psychology](https://www.cambridge.org/core/journals/industrial-and-organizational-psychology).
+  
 - *2024.07*, Our article, **Will the real Linda please stand up... To large language models? Examining the representativeness heuristic in LLMs**, has now been accepted at [COLM 2024](https://colmweb.org/).
 
 - *2024.03*, Our article, **The weight of beauty in psychological research**, has now been published in [Industrial and Organizational Psychology](https://www.cambridge.org/core/journals/industrial-and-organizational-psychology).
