@@ -22,24 +22,6 @@ My primary research interests are centered around leveraging innovative technolo
 
 I am always excited to collaborate with other researchers and explore new fields. Do not hesitate to contact me if you are interested!
 
-# 🔥 News
-- *2024.09*, Our article, **Will the real Linda please stand up... To large language models? Examining the representativeness heuristic in LLMs**, selected as an **oral spotlight presentation (top 2%)** at [COLM 2024](https://colmweb.org/).
-
-- *2024.08*, also be a member of [Chili Lab](https://hanjiechen.github.io/group.html) at [Rice University](https://psychology.rice.edu/graduate/industrial-organizational-psychology).
-
-- *2024.08*, also be a member of [SMART Lab](https://drive.google.com/file/d/1TQMWbNDCBxYwH5aSPrn8_jRQ08pdrn4-/view) at [Rice University](https://psychology.rice.edu/graduate/industrial-organizational-psychology).
-
-- *2024.08*, Our article, **On putting the horse (raters and criteria) before the cart (variance components in ratings)**, has now been published in [Industrial and Organizational Psychology](https://www.cambridge.org/core/journals/industrial-and-organizational-psychology).
-
-- *2024.07*, Our article, **Will the real Linda please stand up... To large language models? Examining the representativeness heuristic in LLMs**, has now been accepted at [COLM 2024](https://colmweb.org/).
-
-- *2024.03*, Our article, **The weight of beauty in psychological research**, has now been published in [Industrial and Organizational Psychology](https://www.cambridge.org/core/journals/industrial-and-organizational-psychology).
-
-- *2023.12*, Our sympoisum, **To RIASEC and beyond: Advances in vocational interest research**, has been accepted at [SIOP 2024](https://www.siop.org/annual-conference).
-
-- *2023.12*, Our sympoisum, **Future of performance prediction and evaluation: Artificial intelligence and big data**, has been accepted at [SIOP 2024](https://www.siop.org/annual-conference).
-
-- *2023.08*, I joined [OWL Lab](https://workforce.rice.edu/) at [Rice University](https://psychology.rice.edu/graduate/industrial-organizational-psychology) as a first-year PhD student. 
 
 # 🎖 Honors and Awards
 - *2023*, Mortensen Research Award & CLA Research Scholarship, University of Minnesota-Twin Cities. $1,500.
