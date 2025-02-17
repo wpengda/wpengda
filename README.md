@@ -24,6 +24,7 @@ I am always excited to collaborate with other researchers and explore new fields
 
 
 # 🎖 Honors and Awards
+- *2024*, Researcher Access Program, OpenAI. $5,000.
 - *2023*, Mortensen Research Award & CLA Research Scholarship, University of Minnesota-Twin Cities. $1,500.
 
 
