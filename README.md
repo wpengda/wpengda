@@ -35,6 +35,7 @@ I am always excited to collaborate with other researchers and explore new fields
 
 
 # 💻 Internships and Research Experiences
+- *2025.05 - Present*, [Midjourney, Inc](https://www.midjourney.com/explore?tab=top), ML/AI PhD Resident, San Francisco, CA, USA
 - *2024.08 - Present*, [Chili Lab](https://hanjiechen.github.io/group.html) Research Assistant, Houston, TX, USA
 - *2024.08 - Present*, [SMART Lab](https://drive.google.com/file/d/1TQMWbNDCBxYwH5aSPrn8_jRQ08pdrn4-/view) Research Assistant, Houston, TX, USA
 - *2023.08 - Present*, [OWL Lab](https://workforce.rice.edu/) Research Assistant, Houston, TX, USA
