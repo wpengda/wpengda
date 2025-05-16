@@ -46,5 +46,6 @@ I am always excited to collaborate with other researchers and explore new fields
 
 
 # 🫶 Service
+- NIPS 2025, Reviewer
 - SIOP 2025, Reviewer
 - CHI 2025, Reviewer
