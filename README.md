@@ -22,30 +22,17 @@ My primary research interests are centered around leveraging innovative technolo
 
 I am always excited to collaborate with other researchers and explore new fields. Do not hesitate to contact me if you are interested!
 
-
-# 🎖 Honors and Awards
-- *2025*, Researcher Access Program, OpenAI. $5,000.
-- *2023*, Mortensen Research Award & CLA Research Scholarship, University of Minnesota-Twin Cities. $1,500.
-
-
 # 📖 Education
 - *2023 - Present*, Ph.D. in Industrial-Organizational Psychology, Rice University
 - *2019 - 2023*, B.S. in Psychology and B.A. in Computer Science, University of Minnesota-Twin Cities
 
 
-
 # 💻 Internships and Research Experiences
-- *2025.05 - Present*, [Midjourney, Inc](https://www.midjourney.com/explore?tab=top), ML/AI PhD Resident, San Francisco, CA, USA
-- *2024.08 - Present*, [Chili Lab](https://hanjiechen.github.io/group.html) Research Assistant, Houston, TX, USA
-- *2024.08 - Present*, [SMART Lab](https://drive.google.com/file/d/1TQMWbNDCBxYwH5aSPrn8_jRQ08pdrn4-/view) Research Assistant, Houston, TX, USA
-- *2023.08 - Present*, [OWL Lab](https://workforce.rice.edu/) Research Assistant, Houston, TX, USA
-- *2022.05 - 2023.06*, [CFL Lab](https://innovation.umn.edu/culture-and-family-life-lab/people/) Research Assistant, Minneapolis, MN, USA
-- *2021.04 - 2023.06*, [TNTLAB](https://rlanders.net/) Research Assistant, Minneapolis, MN, USA
-- *2021.12 - 2022.07*, [3D HoloGroup, Inc](https://www.linkedin.com/company/3dhologroup/) Human Resources Intern, Minneapolis, MN, USA
-- *2020.06 - 2022.07*, [Ones Green Lab](https://cla.umn.edu/about/directory/profile/onesx001) Research Assistant, Minneapolis, MN, USA
+- <img src="https://raw.githubusercontent.com/wpengda/wpengda.github.io/main/images/Midjourney.png" style="width:48px; height:48px; margin-right:4px;"/> *2025.05 - Present*, [Midjourney, Inc](https://www.midjourney.com/explore?tab=top), ML/AI Ph.D. Resident, San Francisco, CA, USA  
+- <img src="https://raw.githubusercontent.com/wpengda/wpengda.github.io/main/images/Rice.png" style="width:48px; height:48px; margin-right:4px;"/> *2024.08 - Present*, [Chili Lab](https://hanjiechen.github.io/group.html), Research Assistant, Houston, TX, USA  
+- <img src="https://raw.githubusercontent.com/wpengda/wpengda.github.io/main/images/Rice.png" style="width:48px; height:48px; margin-right:4px;"/> *2024.08 - Present*, [SMART Lab](https://drive.google.com/file/d/1TQMWbNDCBxYwH5aSPrn8_jRQ08pdrn4-/view), Research Assistant, Houston, TX, USA  
+- <img src="https://raw.githubusercontent.com/wpengda/wpengda.github.io/main/images/Rice.png" style="width:48px; height:48px; margin-right:4px;"/> *2023.08 - Present*, [OWL Lab](https://workforce.rice.edu/), Research Assistant, Houston, TX, USA  
+- <img src="https://raw.githubusercontent.com/wpengda/wpengda.github.io/main/images/umn.png" style="width:48px; height:48px; margin-right:4px;"/> *2022.05 - 2023.06*, [CFL Lab](https://innovation.umn.edu/culture-and-family-life-lab/people/), Research Assistant, Minneapolis, MN, USA  
+- <img src="https://raw.githubusercontent.com/wpengda/wpengda.github.io/main/images/umn.png" style="width:48px; height:48px; margin-right:4px;"/> *2021.04 - 2023.06*, [TNTLAB](https://rlanders.net/), Research Assistant, Minneapolis, MN, USA  
+- <img src="https://raw.githubusercontent.com/wpengda/wpengda.github.io/main/images/umn.png" style="width:48px; height:48px; margin-right:4px;"/> *2020.06 - 2022.07*, [Ones Green Lab](https://cla.umn.edu/about/directory/profile/onesx001), Research Assistant, Minneapolis, MN, USA  
 
-
-# 🫶 Service
-- NIPS 2025, Reviewer
-- SIOP 2025, Reviewer
-- CHI 2025, Reviewer
